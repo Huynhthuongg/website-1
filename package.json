@@ -41,22 +41,22 @@
   "dependencies": {
     "@haroenv/react-sparklines": "^1.7.1",
     "algoliasearch": "^3.27.1",
-    "bootstrap": "^4.0.0-alpha.5",
+    "bootstrap": "^5.0.0",
     "bytes": "^3.0.0",
     "date-fns": "^2.0.0-alpha.7",
-    "docsearch.js": "^2.5.2",
-    "jquery": "^3.4.0",
-    "marked": "^0.4.0",
+    "docsearch.js": "^2.6.3",
+    "jquery": "^3.5.0",
+    "marked": "^0.6.2",
     "popper.js": "^1.14.3",
     "prop-types": "^15.6.1",
-    "qs": "^6.5.2",
-    "react": "^16.4.0",
-    "react-dom": "^16.4.2",
-    "react-instantsearch-dom": "^5.2.0-beta.2",
+    "qs": "^6.5.3",
+    "react": "^16.5.0",
+    "react-dom": "^16.5.0",
+    "react-instantsearch-dom": "^6.40.4",
     "react-transition-group": "^1.2.1",
     "unescape-html": "^1.0.0",
     "unfetch": "^3.0.0",
-    "xss": "^1.0.3"
+    "xss": "^1.0.10"
   },
   "resolutions": {
     "algoliasearch": "3.27.1"
